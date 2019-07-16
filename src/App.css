@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.search-wrapper {
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.space-align {
+  margin-right: 20px;
+}
+
+.card-width {
+  width: 20rem;
+  padding: 10px;
+  margin: 16px;
+}
+
+.wrapper {
+  margin-top: 100px;
+}
+
